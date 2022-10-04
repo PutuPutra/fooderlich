@@ -1,6 +1,5 @@
 {
-    "feed": [
-        {
+    "feed": [{
             "profileImageUrl": "assets/profile_pics/person_cesare.jpeg",
             "comment": "Made this delicious pizza this morning",
             "foodPictureUrl": "card_carrot.png",
